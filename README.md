@@ -5,6 +5,7 @@ Local Binary Pattern (LBP) face recognition code and the Colab notebook used to 
 ## Contents
 
 - `notebooks/robust_lbp_experiments.ipynb`: executed Colab notebook with the experiment tables.
+- `reports/robust_lbp_report.pdf`: report PDF accompanying the experiments.
 - `lbpface/`: LBP descriptor, distance measures, data loading, preprocessing, and evaluation code.
 - `experiments/`: ORL, sweep, and FERET experiment entry points.
 - `tests/`: unit and integration tests.
